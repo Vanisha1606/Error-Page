@@ -2,7 +2,7 @@ body{
     background-color: #22232e;
 }
 h1{
-    display:flex;
+    display: flex;
     text-align: center;
     flex-wrap: wrap;
     position:relative;
